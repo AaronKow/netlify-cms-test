@@ -7,6 +7,12 @@
       "synonyms": "TCM, needle",
       "anchor": "acupuncture",
       "category": "medical"
+    },
+    {
+      "description": "Whole blood donors\n\nThe minimum age requirement for whole blood donors is **16 years old**.\n\n\n\nDonors who are **16 and 17** years of age may be accepted if written consent to donate blood has been obtained from parent or guardian.\n\n\n\nThe maximum age for first-time whole blood donors is **60 years old** (up to 1 day before their 61st birthday).\n\n\n\nRepeat whole blood donors can continue donating until they are 65 years old (up to 1 day before their 66th birthday).\n\n\n\nRepeat whole blood donors who are 66 years old and above who wish to continue donating may still be allowed to if they have been regularly donating, remain healthy and pass the medical evaluation\n\n\n\nApheresis donors\n\nThe minimum age for apheresis donation is **18 years old**.\n\n\n\nNew or first-time platelet apheresis donors are allowed to donate **until age 55** (up to 1 day before the 56th birthday). You must have donated whole blood at least once before and not have a history of complications or reactions during blood donation.\n\n\n\nRepeat platelet apheresis donors who made at least one apheresis donation a year for the last two years can continue donating until age 65 (up to 1 day before the 66th birthday).",
+      "synonyms": "years",
+      "anchor": "age",
+      "category": "biodata"
     }
   ]
 }
