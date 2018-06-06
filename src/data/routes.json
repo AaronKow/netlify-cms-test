@@ -1,9 +1,9 @@
 {
   "routes": [
     {
-      "title": "Bonds",
-      "description": "Bond Details",
-      "path": "/personal-medication",
+      "title": "404",
+      "description": "Page not found",
+      "path": "/404",
       "layout": "normal-page"
     }
   ]
