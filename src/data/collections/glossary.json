@@ -15,6 +15,11 @@
       "term": "​PRISM",
       "description": "The [Pharmaceutical Regulatory Information System (PRISM)](http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/PRISM_e-services.html) gives users the convenience of carrying out transactions with HSA, and searching for related information online.",
       "target_url": "*"
+    },
+    {
+      "term": "Class A Exemption List",
+      "description": "List of Class A (non-sterile) medical devices that your company is dealing in. These medical devices are exempted from product registration.",
+      "target_url": "*"
     }
   ]
 }
