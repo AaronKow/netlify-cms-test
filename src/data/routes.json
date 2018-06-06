@@ -3,7 +3,7 @@
     {
       "title": "Bonds",
       "description": "Bond Details",
-      "path": "/bond-details",
+      "path": "/personal-medication",
       "layout": "normal-page"
     }
   ]
