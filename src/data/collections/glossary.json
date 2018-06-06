@@ -5,6 +5,16 @@
       "term": "CRIS",
       "description": "<p>\n\n\tThe <a href=\"http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/CRIS.html?_ga=2.41352802.1774066265.1517188647-1141081152.1511670897\" target=\"_blank\">Client Registration and Identification Service (CRIS)</a> is an e-service that allows companies to authorise their employees or service providers to access HSA e-services in MEDICS or PRISM on behalf of their companies.\n\n</p>",
       "target_url": "*"
+    },
+    {
+      "term": "MEDICS",
+      "description": "The [Medical Device Information Communication System (MEDICS)](http://eservice.hsa.gov.sg/osc/portal/jsp/AA/process.jsp?eService=43&_ga=2.2028017.1774066265.1517188647-1141081152.1511670897) allows companies dealing with medical devices the convenience of carrying out transactions with the Medical Device Branch and view device information online.",
+      "target_url": "*"
+    },
+    {
+      "term": "​PRISM",
+      "description": "The [Pharmaceutical Regulatory Information System (PRISM)](http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/PRISM_e-services.html) gives users the convenience of carrying out transactions with HSA, and searching for related information online.",
+      "target_url": "*"
     }
   ]
 }
